@@ -1,0 +1,15 @@
+.conda/
+.env
+.env/
+GenAI_Fundamentals/01_Intro_GenAI/
+GenAI_Fundamentals/02_Intro_Deep_Learning/
+GenAI_Fundamentals/03_Foundation_Models/
+GenAI_Fundamentals/05_Lightweight_Fine_Tuning_Project/
+GenAI_Fundamentals/Project_Playground/
+Generative AI for Software Developers Syllabus.pdf
+LLMs_Text_Generation/1_Intro
+LLMs_Text_Generation/2_NLP
+LLMs_Text_Generation/3_Transformers_and_Attention
+LLMs_Text_Generation/4_RAG
+LLMs_Text_Generation/5_Built_Custom_Dataset
+

@@ -1,0 +1,11 @@
+ipykernel
+pytorch
+python-dotenv
+pandas
+numpy
+matplotlib
+datasets
+transformers
+peft
+torch
+sklearn
